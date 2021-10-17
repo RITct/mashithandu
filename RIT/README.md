@@ -6,6 +6,7 @@ A collection of fun projects done by RIT students
 
 - [Shitty_Calculator](./CJ/) by [Vyshnav CJ](https://github.com/VyshnavCJ)
 - [Multiple Linear Regresion](./Govind) by [Govind V R](https://github.com/Govindvr)
+- [Stone Paper Scissors](./Anandu) by [Anandu S](https://github.com/anandukch)
 
 ### How to add your project
 
