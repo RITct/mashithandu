@@ -12,8 +12,5 @@ jobs:
     steps:
       - name: Auto PR fork
         uses: UKnowWhoIm/auto-pr-fork@v0.1
-        with:
-          title: "Projects from RIT"
         env:
           GITHUB_TOKEN: ${{ secrets.AUTH_TOKEN }}
-    
